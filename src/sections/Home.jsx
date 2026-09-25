@@ -103,7 +103,7 @@ export default function Home() {
       <div
         className="
           relative z-10 h-full w-full max-w-7xl
-          mx-auto
+          mx-auto px-4
           grid grid-cols-1 lg:grid-cols-2
         "
       >
